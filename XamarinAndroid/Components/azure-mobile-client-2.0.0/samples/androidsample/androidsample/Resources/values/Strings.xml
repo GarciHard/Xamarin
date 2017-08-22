@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Desarrollo Movil</string>
+    <string name="add_textbox_hint">Escribir actividad</string>
+    <string name="add_button_text">Agregar</string>
+    <string name="mobile_services">Pendientes Jorge Armando Díaz</string>
+    <string name="menu_refresh">Actualizar</string>
+    <string name="checkbox_text">Actividad</string>
+</resources>

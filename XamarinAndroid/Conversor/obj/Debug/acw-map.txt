@@ -1,0 +1,4 @@
+Conversor.MainActivity, Conversor;md5abe18ba33f1481605d4fa6c38810a6e2.MainActivity
+Conversor.MainActivity, Conversor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5abe18ba33f1481605d4fa6c38810a6e2.MainActivity
+Conversor.MainActivity;md5abe18ba33f1481605d4fa6c38810a6e2.MainActivity
+conversor.MainActivity;md5abe18ba33f1481605d4fa6c38810a6e2.MainActivity

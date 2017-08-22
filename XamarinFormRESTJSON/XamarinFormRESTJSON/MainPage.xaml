@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+		xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+		x:Class="XamarinFormRESTJSON.MainPage"
+		x:Name="RootPage">
+	<ContentPage.Content>
+		<StackLayout Orientation="Vertical"
+				BindingContext="{Binding Source={x:Reference RootPage}}">
+			<ListView ItemsSource="{Binding Countries}"
+					  IsRefreshing="{Binding IsBusy}" 
+					  IsPullToRefreshEnabled="true"
+					  RefreshCommand="{Binding RefreshCommand}">
+				<ListView.ItemTemplate>
+					<DataTemplate>
+						<TextCell Text="{Binding Name}" 
+								  Detail="{Binding Capital}" />
+					</DataTemplate>
+				</ListView.ItemTemplate>
+			</ListView>
+			<ActivityIndicator IsRunning="{Binding IsBusy}" />
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>

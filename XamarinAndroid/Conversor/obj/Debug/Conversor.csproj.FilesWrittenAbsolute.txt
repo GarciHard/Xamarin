@@ -1,0 +1,13 @@
+/Users/GarciHard/Projects/XamarinAndroid/Conversor/obj/Debug/MonoAndroid,Version=v6.0.AssemblyAttribute.cs
+/Users/GarciHard/Projects/XamarinAndroid/Conversor/bin/Debug/Conversor.dll.mdb
+/Users/GarciHard/Projects/XamarinAndroid/Conversor/bin/Debug/Conversor.dll
+/Users/GarciHard/Projects/XamarinAndroid/Conversor/bin/Debug/com.garcihard.conversor.apk
+/Users/GarciHard/Projects/XamarinAndroid/Conversor/obj/Debug/android/bin/com.garcihard.conversor.apk
+/Users/GarciHard/Projects/XamarinAndroid/Conversor/obj/Debug/res/layout/main.xml
+/Users/GarciHard/Projects/XamarinAndroid/Conversor/obj/Debug/res/values/strings.xml
+/Users/GarciHard/Projects/XamarinAndroid/Conversor/obj/Debug/res/drawable/background.jpg
+/Users/GarciHard/Projects/XamarinAndroid/Conversor/obj/Debug/R.cs.flag
+/Users/GarciHard/Projects/XamarinAndroid/Conversor/bin/Debug/com.garcihard.conversor-Signed.apk
+/Users/GarciHard/Projects/XamarinAndroid/Conversor/obj/Debug/uploadflags.txt
+/Users/GarciHard/Projects/XamarinAndroid/Conversor/obj/Debug/Conversor.dll
+/Users/GarciHard/Projects/XamarinAndroid/Conversor/obj/Debug/Conversor.dll.mdb

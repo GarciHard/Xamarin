@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversor", "Conversor\Conversor.csproj", "{999CB54B-785C-4057-8D73-F2F5FED333FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XDroid_Ex2", "XDroid_Ex2\XDroid_Ex2.csproj", "{7C981E80-2D04-4C59-9830-D71BF115CB02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayoutDroid", "LayoutDroid\LayoutDroid.csproj", "{96732E8B-27BA-493F-AEB2-DB0245FA978B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{999CB54B-785C-4057-8D73-F2F5FED333FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{999CB54B-785C-4057-8D73-F2F5FED333FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{999CB54B-785C-4057-8D73-F2F5FED333FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{999CB54B-785C-4057-8D73-F2F5FED333FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C981E80-2D04-4C59-9830-D71BF115CB02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C981E80-2D04-4C59-9830-D71BF115CB02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C981E80-2D04-4C59-9830-D71BF115CB02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C981E80-2D04-4C59-9830-D71BF115CB02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96732E8B-27BA-493F-AEB2-DB0245FA978B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96732E8B-27BA-493F-AEB2-DB0245FA978B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96732E8B-27BA-493F-AEB2-DB0245FA978B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96732E8B-27BA-493F-AEB2-DB0245FA978B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

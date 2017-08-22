@@ -1,0 +1,8 @@
+XDroid_Ex2.MainActivity, XDroid_Ex2;md5fb5434199f8812a6da5d487696f013f3.MainActivity
+XDroid_Ex2.MainActivity, XDroid_Ex2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5fb5434199f8812a6da5d487696f013f3.MainActivity
+XDroid_Ex2.MainActivity;md5fb5434199f8812a6da5d487696f013f3.MainActivity
+xdroid_ex2.MainActivity;md5fb5434199f8812a6da5d487696f013f3.MainActivity
+XDroid_Ex2.CapitalActivity, XDroid_Ex2;md5fb5434199f8812a6da5d487696f013f3.CapitalActivity
+XDroid_Ex2.CapitalActivity, XDroid_Ex2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5fb5434199f8812a6da5d487696f013f3.CapitalActivity
+XDroid_Ex2.CapitalActivity;md5fb5434199f8812a6da5d487696f013f3.CapitalActivity
+xdroid_ex2.CapitalActivity;md5fb5434199f8812a6da5d487696f013f3.CapitalActivity

@@ -1,0 +1,9 @@
+/Users/GarciHard/Projects/Xamarin_iOS/ActivePassive/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/GarciHard/Projects/Xamarin_iOS/ActivePassive/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/GarciHard/Projects/Xamarin_iOS/ActivePassive/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/GarciHard/Projects/Xamarin_iOS/ActivePassive/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/GarciHard/Projects/Xamarin_iOS/ActivePassive/obj/iPhoneSimulator/Debug/optimized/
+/Users/GarciHard/Projects/Xamarin_iOS/ActivePassive/bin/iPhoneSimulator/Debug/ActivePassive.exe.mdb
+/Users/GarciHard/Projects/Xamarin_iOS/ActivePassive/bin/iPhoneSimulator/Debug/ActivePassive.exe
+/Users/GarciHard/Projects/Xamarin_iOS/ActivePassive/obj/iPhoneSimulator/Debug/ActivePassive.exe
+/Users/GarciHard/Projects/Xamarin_iOS/ActivePassive/obj/iPhoneSimulator/Debug/ActivePassive.exe.mdb

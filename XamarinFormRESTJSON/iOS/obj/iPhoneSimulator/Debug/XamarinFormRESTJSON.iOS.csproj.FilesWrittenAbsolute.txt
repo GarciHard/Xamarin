@@ -1,0 +1,16 @@
+/Users/GarciHard/Projects/XamarinFormRESTJSON/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/GarciHard/Projects/XamarinFormRESTJSON/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/GarciHard/Projects/XamarinFormRESTJSON/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/GarciHard/Projects/XamarinFormRESTJSON/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/GarciHard/Projects/XamarinFormRESTJSON/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/GarciHard/Projects/XamarinFormRESTJSON/iOS/bin/iPhoneSimulator/Debug/XamarinFormRESTJSON.iOS.exe.mdb
+/Users/GarciHard/Projects/XamarinFormRESTJSON/iOS/bin/iPhoneSimulator/Debug/XamarinFormRESTJSON.iOS.exe
+/Users/GarciHard/Projects/XamarinFormRESTJSON/iOS/obj/iPhoneSimulator/Debug/XamarinFormRESTJSON.iOS.exe
+/Users/GarciHard/Projects/XamarinFormRESTJSON/iOS/obj/iPhoneSimulator/Debug/XamarinFormRESTJSON.iOS.exe.mdb
+/Users/GarciHard/Projects/XamarinFormRESTJSON/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/GarciHard/Projects/XamarinFormRESTJSON/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/GarciHard/Projects/XamarinFormRESTJSON/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/GarciHard/Projects/XamarinFormRESTJSON/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/GarciHard/Projects/XamarinFormRESTJSON/iOS/bin/iPhoneSimulator/Debug/XamarinFormRESTJSON.dll
+/Users/GarciHard/Projects/XamarinFormRESTJSON/iOS/bin/iPhoneSimulator/Debug/XamarinFormRESTJSON.dll.mdb
+/Users/GarciHard/Projects/XamarinFormRESTJSON/iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll

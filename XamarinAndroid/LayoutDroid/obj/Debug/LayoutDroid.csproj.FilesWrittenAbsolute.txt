@@ -1,0 +1,15 @@
+/Users/GarciHard/Projects/XamarinAndroid/LayoutDroid/obj/Debug/MonoAndroid,Version=v6.0.AssemblyAttribute.cs
+/Users/GarciHard/Projects/XamarinAndroid/LayoutDroid/bin/Debug/LayoutDroid.dll.mdb
+/Users/GarciHard/Projects/XamarinAndroid/LayoutDroid/bin/Debug/LayoutDroid.dll
+/Users/GarciHard/Projects/XamarinAndroid/LayoutDroid/bin/Debug/com.garcihard.layoutdroid.apk
+/Users/GarciHard/Projects/XamarinAndroid/LayoutDroid/obj/Debug/android/bin/com.garcihard.layoutdroid.apk
+/Users/GarciHard/Projects/XamarinAndroid/LayoutDroid/obj/Debug/res/layout/main.xml
+/Users/GarciHard/Projects/XamarinAndroid/LayoutDroid/obj/Debug/res/values/strings.xml
+/Users/GarciHard/Projects/XamarinAndroid/LayoutDroid/obj/Debug/res/layout/linearlayout.xml
+/Users/GarciHard/Projects/XamarinAndroid/LayoutDroid/obj/Debug/R.cs.flag
+/Users/GarciHard/Projects/XamarinAndroid/LayoutDroid/bin/Debug/com.garcihard.layoutdroid-Signed.apk
+/Users/GarciHard/Projects/XamarinAndroid/LayoutDroid/obj/Debug/uploadflags.txt
+/Users/GarciHard/Projects/XamarinAndroid/LayoutDroid/obj/Debug/LayoutDroid.dll
+/Users/GarciHard/Projects/XamarinAndroid/LayoutDroid/obj/Debug/LayoutDroid.dll.mdb
+/Users/GarciHard/Projects/XamarinAndroid/LayoutDroid/obj/Debug/res/layout/relativelayout.xml
+/Users/GarciHard/Projects/XamarinAndroid/LayoutDroid/obj/Debug/res/layout/listview.xml

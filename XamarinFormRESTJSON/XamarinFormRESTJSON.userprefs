@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{642F549E-3CEF-4349-9B46-8EE843A4D2DA}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinFormRESTJSON" expanded="True" selected="True">
+            <Node name="XamarinFormRESTJSON" expanded="True">
+              <Node name="References" expanded="True">
+                <Node name="From Packages" expanded="True" />
+              </Node>
+              <Node name="Packages" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.XamarinFormRESTJSON.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.06002180-750B-4F1D-A1FA-B30A6BED6CDB" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XamarinFormRESTJSON.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+</Properties>

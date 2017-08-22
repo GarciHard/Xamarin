@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.garcihard.layoutdroid">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="16" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:allowBackup="true" android:label="@string/app_name" android:name="android.app.Application" android:debuggable="true">
+    <activity android:label="LayoutDroid" android:name="md50301e62f768c6eb1e84ade283aae32dc.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="LinearActivity" android:name="md50301e62f768c6eb1e84ade283aae32dc.LinearActivity" />
+    <activity android:label="RelativeActivity" android:name="md50301e62f768c6eb1e84ade283aae32dc.RelativeActivity" />
+    <activity android:label="ListViewActivity" android:name="md50301e62f768c6eb1e84ade283aae32dc.ListViewActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.garcihard.layoutdroid.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.com.garcihard.layoutdroid" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>

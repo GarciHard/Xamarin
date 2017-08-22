@@ -1,0 +1,9 @@
+/Users/GarciHard/Projects/Xamarin_iOS/Eventos.iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/GarciHard/Projects/Xamarin_iOS/Eventos.iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/GarciHard/Projects/Xamarin_iOS/Eventos.iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/GarciHard/Projects/Xamarin_iOS/Eventos.iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/GarciHard/Projects/Xamarin_iOS/Eventos.iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/GarciHard/Projects/Xamarin_iOS/Eventos.iOS/bin/iPhoneSimulator/Debug/Eventos.iOS.exe.mdb
+/Users/GarciHard/Projects/Xamarin_iOS/Eventos.iOS/bin/iPhoneSimulator/Debug/Eventos.iOS.exe
+/Users/GarciHard/Projects/Xamarin_iOS/Eventos.iOS/obj/iPhoneSimulator/Debug/Eventos.iOS.exe
+/Users/GarciHard/Projects/Xamarin_iOS/Eventos.iOS/obj/iPhoneSimulator/Debug/Eventos.iOS.exe.mdb
